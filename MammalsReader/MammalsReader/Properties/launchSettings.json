@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "MammalsReader": {
+      "commandName": "Project",
+      "nativeDebugging": false
+    }
+  }
+}
